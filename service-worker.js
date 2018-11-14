@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/zhipenglin/hr-new-world/precache-manifest.d62b3e2060ec1349b9ba0cd793f276c9.js"
+  "/hr-new-world/precache-manifest.8daa81bbaa2cabed5fef94aa7ad5c99d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/zhipenglin/hr-new-world/index.html", {
+workbox.routing.registerNavigationRoute("/hr-new-world/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

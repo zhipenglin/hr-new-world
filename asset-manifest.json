@@ -1,14 +1,14 @@
 {
-  "main.css": "/zhipenglin/hr-new-world/static/css/main.c77dcfc1.chunk.css",
-  "main.js": "/zhipenglin/hr-new-world/static/js/main.e7eca8c3.chunk.js",
-  "main.js.map": "/zhipenglin/hr-new-world/static/js/main.e7eca8c3.chunk.js.map",
-  "static/js/1.dd4dbfac.chunk.js": "/zhipenglin/hr-new-world/static/js/1.dd4dbfac.chunk.js",
-  "static/js/1.dd4dbfac.chunk.js.map": "/zhipenglin/hr-new-world/static/js/1.dd4dbfac.chunk.js.map",
-  "runtime~main.js": "/zhipenglin/hr-new-world/static/js/runtime~main.4aed860c.js",
-  "runtime~main.js.map": "/zhipenglin/hr-new-world/static/js/runtime~main.4aed860c.js.map",
-  "static/media/style.module.scss": "/zhipenglin/hr-new-world/static/media/bg_0.401b1c8d.jpg",
-  "static/css/main.c77dcfc1.chunk.css.map": "/zhipenglin/hr-new-world/static/css/main.c77dcfc1.chunk.css.map",
-  "index.html": "/zhipenglin/hr-new-world/index.html",
-  "precache-manifest.d62b3e2060ec1349b9ba0cd793f276c9.js": "/zhipenglin/hr-new-world/precache-manifest.d62b3e2060ec1349b9ba0cd793f276c9.js",
-  "service-worker.js": "/zhipenglin/hr-new-world/service-worker.js"
+  "main.css": "/hr-new-world/static/css/main.e3d58969.chunk.css",
+  "main.js": "/hr-new-world/static/js/main.23e1239d.chunk.js",
+  "main.js.map": "/hr-new-world/static/js/main.23e1239d.chunk.js.map",
+  "static/js/1.dd4dbfac.chunk.js": "/hr-new-world/static/js/1.dd4dbfac.chunk.js",
+  "static/js/1.dd4dbfac.chunk.js.map": "/hr-new-world/static/js/1.dd4dbfac.chunk.js.map",
+  "runtime~main.js": "/hr-new-world/static/js/runtime~main.72e63079.js",
+  "runtime~main.js.map": "/hr-new-world/static/js/runtime~main.72e63079.js.map",
+  "static/media/style.module.scss": "/hr-new-world/static/media/bg_0.401b1c8d.jpg",
+  "static/css/main.e3d58969.chunk.css.map": "/hr-new-world/static/css/main.e3d58969.chunk.css.map",
+  "index.html": "/hr-new-world/index.html",
+  "precache-manifest.8daa81bbaa2cabed5fef94aa7ad5c99d.js": "/hr-new-world/precache-manifest.8daa81bbaa2cabed5fef94aa7ad5c99d.js",
+  "service-worker.js": "/hr-new-world/service-worker.js"
 }
