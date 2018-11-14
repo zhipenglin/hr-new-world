@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "2991dfd0fda3611d3cfde03e989ea2b3",
-    "url": "/hr-new-world/static/media/2006.2991dfd0.png"
+    "revision": "3f568dd41d52c2e7131fb77d866007d5",
+    "url": "/hr-new-world/static/media/2014.3f568dd4.png"
   },
   {
-    "revision": "8288a4655cee3ec01854",
-    "url": "/hr-new-world/static/css/main.18aac7ef.chunk.css"
+    "revision": "124112361afa84fddbd8",
+    "url": "/hr-new-world/static/css/main.63d52d1a.chunk.css"
   },
   {
-    "revision": "dd4dbfaca9b5d47c3bf7",
-    "url": "/hr-new-world/static/js/1.dd4dbfac.chunk.js"
+    "revision": "a65ef32c20131dad1e80",
+    "url": "/hr-new-world/static/js/1.a65ef32c.chunk.js"
   },
   {
     "revision": "72e6307953a70b7bd63c",
@@ -36,24 +36,36 @@ self.__precacheManifest = [
     "url": "/hr-new-world/static/media/item_1.715cd1b2.png"
   },
   {
+    "revision": "42501ad8901db4105de64d62bc323a64",
+    "url": "/hr-new-world/static/media/content.42501ad8.png"
+  },
+  {
+    "revision": "fc904c6d467f14af676863d4f7a672f0",
+    "url": "/hr-new-world/static/media/title.fc904c6d.png"
+  },
+  {
+    "revision": "401b1c8d51fe677ed75e3fc1dad8c339",
+    "url": "/hr-new-world/static/media/bg_0.401b1c8d.jpg"
+  },
+  {
     "revision": "959e3e46d9630a4d971bd8fe654d9fe0",
     "url": "/hr-new-world/static/media/2015.959e3e46.png"
   },
   {
-    "revision": "3f568dd41d52c2e7131fb77d866007d5",
-    "url": "/hr-new-world/static/media/2014.3f568dd4.png"
+    "revision": "124112361afa84fddbd8",
+    "url": "/hr-new-world/static/js/main.12411236.chunk.js"
   },
   {
     "revision": "e8793a8decaefa0ea1b3f64f3e513fcc",
     "url": "/hr-new-world/static/media/1995.e8793a8d.png"
   },
   {
-    "revision": "b26fa5cab266dca4c54baec865750c8c",
-    "url": "/hr-new-world/static/media/2005.b26fa5ca.png"
+    "revision": "2991dfd0fda3611d3cfde03e989ea2b3",
+    "url": "/hr-new-world/static/media/2006.2991dfd0.png"
   },
   {
-    "revision": "8288a4655cee3ec01854",
-    "url": "/hr-new-world/static/js/main.8288a465.chunk.js"
+    "revision": "b26fa5cab266dca4c54baec865750c8c",
+    "url": "/hr-new-world/static/media/2005.b26fa5ca.png"
   },
   {
     "revision": "8b47deb8701c90c63dfcd27df82d16d2",
@@ -72,10 +84,6 @@ self.__precacheManifest = [
     "url": "/hr-new-world/static/media/2010.0651915c.png"
   },
   {
-    "revision": "1ddf2fba1e09fcf220483fc10a20e5ec",
-    "url": "/hr-new-world/static/media/2018.1ddf2fba.png"
-  },
-  {
     "revision": "2fbb8a31c6534d4d0482113a51e0b3c2",
     "url": "/hr-new-world/static/media/2016.2fbb8a31.png"
   },
@@ -84,23 +92,15 @@ self.__precacheManifest = [
     "url": "/hr-new-world/static/media/1994.298d704f.png"
   },
   {
+    "revision": "1ddf2fba1e09fcf220483fc10a20e5ec",
+    "url": "/hr-new-world/static/media/2018.1ddf2fba.png"
+  },
+  {
     "revision": "6083df47d3a36f65fa72f87b83db9a7c",
     "url": "/hr-new-world/static/media/2017.6083df47.png"
   },
   {
-    "revision": "fc904c6d467f14af676863d4f7a672f0",
-    "url": "/hr-new-world/static/media/title.fc904c6d.png"
-  },
-  {
-    "revision": "42501ad8901db4105de64d62bc323a64",
-    "url": "/hr-new-world/static/media/content.42501ad8.png"
-  },
-  {
-    "revision": "401b1c8d51fe677ed75e3fc1dad8c339",
-    "url": "/hr-new-world/static/media/bg_0.401b1c8d.jpg"
-  },
-  {
-    "revision": "e256f16e38a1ddf38d8da0df1bca4ab9",
+    "revision": "498bc379877a9bf66fdc663d858f53a6",
     "url": "/hr-new-world/index.html"
   }
 ];

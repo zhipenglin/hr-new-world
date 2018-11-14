@@ -1,14 +1,14 @@
 {
-  "main.css": "/hr-new-world/static/css/main.18aac7ef.chunk.css",
-  "main.js": "/hr-new-world/static/js/main.8288a465.chunk.js",
-  "main.js.map": "/hr-new-world/static/js/main.8288a465.chunk.js.map",
-  "static/js/1.dd4dbfac.chunk.js": "/hr-new-world/static/js/1.dd4dbfac.chunk.js",
-  "static/js/1.dd4dbfac.chunk.js.map": "/hr-new-world/static/js/1.dd4dbfac.chunk.js.map",
+  "main.css": "/hr-new-world/static/css/main.63d52d1a.chunk.css",
+  "main.js": "/hr-new-world/static/js/main.12411236.chunk.js",
+  "main.js.map": "/hr-new-world/static/js/main.12411236.chunk.js.map",
+  "static/js/1.a65ef32c.chunk.js": "/hr-new-world/static/js/1.a65ef32c.chunk.js",
+  "static/js/1.a65ef32c.chunk.js.map": "/hr-new-world/static/js/1.a65ef32c.chunk.js.map",
   "runtime~main.js": "/hr-new-world/static/js/runtime~main.72e63079.js",
   "runtime~main.js.map": "/hr-new-world/static/js/runtime~main.72e63079.js.map",
-  "static/media/style.module.scss": "/hr-new-world/static/media/bg_0.401b1c8d.jpg",
-  "static/css/main.18aac7ef.chunk.css.map": "/hr-new-world/static/css/main.18aac7ef.chunk.css.map",
+  "static/media/style.module.scss": "/hr-new-world/static/media/2017.6083df47.png",
+  "static/css/main.63d52d1a.chunk.css.map": "/hr-new-world/static/css/main.63d52d1a.chunk.css.map",
   "index.html": "/hr-new-world/index.html",
-  "precache-manifest.6105648de6f4d7cbc0aa745f038c66b1.js": "/hr-new-world/precache-manifest.6105648de6f4d7cbc0aa745f038c66b1.js",
+  "precache-manifest.951af27b07802f374d2fc18ee0421e82.js": "/hr-new-world/precache-manifest.951af27b07802f374d2fc18ee0421e82.js",
   "service-worker.js": "/hr-new-world/service-worker.js"
 }
