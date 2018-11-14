@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hr-new-world/precache-manifest.6a3f44e3f349d6ccdc6ba8e8efc7429e.js"
+  "/hr-new-world/precache-manifest.26f496275f9f5a5aae70e525c72fb571.js"
 );
 
 workbox.clientsClaim();
