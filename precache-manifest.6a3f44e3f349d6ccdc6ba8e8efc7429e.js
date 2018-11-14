@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "8b47deb8701c90c63dfcd27df82d16d2",
-    "url": "/hr-new-world/static/media/2013.8b47deb8.png"
+    "revision": "2991dfd0fda3611d3cfde03e989ea2b3",
+    "url": "/hr-new-world/static/media/2006.2991dfd0.png"
   },
   {
-    "revision": "394ec8a5caa20d5582de",
+    "revision": "2a640f5321d2757b41b1",
     "url": "/hr-new-world/static/css/main.d622b9b2.chunk.css"
   },
   {
@@ -64,36 +64,36 @@ self.__precacheManifest = [
     "url": "/hr-new-world/static/media/2014.3f568dd4.png"
   },
   {
-    "revision": "e8793a8decaefa0ea1b3f64f3e513fcc",
-    "url": "/hr-new-world/static/media/1995.e8793a8d.png"
-  },
-  {
-    "revision": "394ec8a5caa20d5582de",
-    "url": "/hr-new-world/static/js/main.394ec8a5.chunk.js"
-  },
-  {
     "revision": "b26fa5cab266dca4c54baec865750c8c",
     "url": "/hr-new-world/static/media/2005.b26fa5ca.png"
   },
   {
-    "revision": "2991dfd0fda3611d3cfde03e989ea2b3",
-    "url": "/hr-new-world/static/media/2006.2991dfd0.png"
+    "revision": "2a640f5321d2757b41b1",
+    "url": "/hr-new-world/static/js/main.2a640f53.chunk.js"
   },
   {
-    "revision": "0f526e559b3b3055cc237fd24d8a8888",
-    "url": "/hr-new-world/static/media/1996.0f526e55.png"
+    "revision": "e8793a8decaefa0ea1b3f64f3e513fcc",
+    "url": "/hr-new-world/static/media/1995.e8793a8d.png"
+  },
+  {
+    "revision": "8b47deb8701c90c63dfcd27df82d16d2",
+    "url": "/hr-new-world/static/media/2013.8b47deb8.png"
   },
   {
     "revision": "295fff8b3cff2dbf1de1eb34f3c1b7e2",
     "url": "/hr-new-world/static/media/1993.295fff8b.png"
   },
   {
+    "revision": "0651915c8a8e40208c6e5b9c03f36b49",
+    "url": "/hr-new-world/static/media/2010.0651915c.png"
+  },
+  {
     "revision": "2fbb8a31c6534d4d0482113a51e0b3c2",
     "url": "/hr-new-world/static/media/2016.2fbb8a31.png"
   },
   {
-    "revision": "0651915c8a8e40208c6e5b9c03f36b49",
-    "url": "/hr-new-world/static/media/2010.0651915c.png"
+    "revision": "0f526e559b3b3055cc237fd24d8a8888",
+    "url": "/hr-new-world/static/media/1996.0f526e55.png"
   },
   {
     "revision": "1ddf2fba1e09fcf220483fc10a20e5ec",
@@ -132,7 +132,7 @@ self.__precacheManifest = [
     "url": "/hr-new-world/static/media/s_2.735bd3be.jpeg"
   },
   {
-    "revision": "2c91942d7f28b601be7c54bff788f319",
+    "revision": "0d65bf44b5d3645dd97cd6fa779b619a",
     "url": "/hr-new-world/index.html"
   }
 ];
