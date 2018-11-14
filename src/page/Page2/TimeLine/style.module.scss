@@ -1,0 +1,82 @@
+@import "../../fn";
+
+.timeline{
+  display: flex;
+  padding-bottom: 200px;
+  &:before{
+    content:'';
+    display: block;
+    width: 1PX;
+    height: 100%;
+    top:0;
+    left:50%;
+    transform: translateX(6px) scaleX(0.5);
+    position: absolute;
+    background: #2c509d;
+  }
+  @include item('./font.png',33px,248px,2500px,60%);
+}
+
+.left{
+  margin-top: 50px;
+}
+
+.right{
+  margin-top: 170px;
+}
+
+.item{
+  margin-top: 30px;
+}
+
+.item_1993{
+  @include bg('./1993.png',274px,348px);
+}
+
+.item_1994{
+  @include bg('./1994.png',251px,346px);
+}
+
+.item_1995{
+  @include bg('./1995.png',274px,359px);
+}
+
+.item_1996{
+  @include bg('./1996.png',259px,315px);
+}
+
+.item_2005{
+  @include bg('./2005.png',274px,383px);
+}
+
+.item_2006{
+  @include bg('./2006.png',254px,301px);
+}
+
+.item_2010{
+  @include bg('./2010.png',278px,298px);
+}
+
+.item_2013{
+  @include bg('./2013.png',251px,309px);
+}
+
+.item_2014{
+  @include bg('./2014.png',277px,278px);
+}
+
+.item_2015{
+  @include bg('./2015.png',257px,277px);
+}
+
+.item_2016{
+  @include bg('./2016.png',274px,336px);
+}
+
+.item_2017{
+  @include bg('./2017.png',251px,324px);
+}
+
+.item_2018{
+  @include bg('./2018.png',277px,298px);
+}

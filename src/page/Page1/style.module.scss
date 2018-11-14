@@ -1,0 +1,59 @@
+@import "../fn";
+
+.bg {
+  background: url('./bg_0.jpg') no-repeat;
+  background-size: 100% 100%;
+  height: 100vh;
+  position: relative;
+}
+
+.title {
+  @include item('./title.png', 430px, 138px, 40px);
+  animation-duration: 1000ms;
+}
+
+.city {
+  @include item('./city.png', 430px, 92px, 178px);
+  animation-duration: 5000ms;
+}
+
+.content {
+  background: url("./content.png");
+  background-size: 430px 460px;
+  width: 430px;
+  height: 469px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 270px;
+  animation-duration: 3000ms;
+}
+
+@keyframes start {
+  0%, 100% {
+    transform: translateY(-20px);
+  }
+  25%,75% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(20px);
+  }
+}
+
+.start {
+  position: absolute;
+  left: 50%;
+  bottom: 60px;
+  animation: start 1500ms linear infinite;
+}
+
+.start:after {
+  content: '';
+  display: block;
+  background: url("./start.png");
+  background-size: 139px 101px;
+  width: 139px;
+  height: 101px;
+  transform: translateX(-50%);
+}
