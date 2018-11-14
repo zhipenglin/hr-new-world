@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2991dfd0fda3611d3cfde03e989ea2b3",
-    "url": "/hr-new-world/static/media/2006.2991dfd0.png"
+    "revision": "e8793a8decaefa0ea1b3f64f3e513fcc",
+    "url": "/hr-new-world/static/media/1995.e8793a8d.png"
   },
   {
-    "revision": "23e1239df58ac1731700",
-    "url": "/hr-new-world/static/css/main.e3d58969.chunk.css"
+    "revision": "9795d1ffe1df43fe285a",
+    "url": "/hr-new-world/static/css/main.2882f656.chunk.css"
   },
   {
     "revision": "dd4dbfaca9b5d47c3bf7",
@@ -44,16 +44,16 @@ self.__precacheManifest = [
     "url": "/hr-new-world/static/media/2014.3f568dd4.png"
   },
   {
-    "revision": "e8793a8decaefa0ea1b3f64f3e513fcc",
-    "url": "/hr-new-world/static/media/1995.e8793a8d.png"
-  },
-  {
     "revision": "b26fa5cab266dca4c54baec865750c8c",
     "url": "/hr-new-world/static/media/2005.b26fa5ca.png"
   },
   {
-    "revision": "23e1239df58ac1731700",
-    "url": "/hr-new-world/static/js/main.23e1239d.chunk.js"
+    "revision": "2991dfd0fda3611d3cfde03e989ea2b3",
+    "url": "/hr-new-world/static/media/2006.2991dfd0.png"
+  },
+  {
+    "revision": "9795d1ffe1df43fe285a",
+    "url": "/hr-new-world/static/js/main.9795d1ff.chunk.js"
   },
   {
     "revision": "8b47deb8701c90c63dfcd27df82d16d2",
@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "/hr-new-world/static/media/2010.0651915c.png"
   },
   {
-    "revision": "2fbb8a31c6534d4d0482113a51e0b3c2",
-    "url": "/hr-new-world/static/media/2016.2fbb8a31.png"
-  },
-  {
     "revision": "1ddf2fba1e09fcf220483fc10a20e5ec",
     "url": "/hr-new-world/static/media/2018.1ddf2fba.png"
+  },
+  {
+    "revision": "2fbb8a31c6534d4d0482113a51e0b3c2",
+    "url": "/hr-new-world/static/media/2016.2fbb8a31.png"
   },
   {
     "revision": "298d704fe4234e372108b54f0859e904",
@@ -100,7 +100,7 @@ self.__precacheManifest = [
     "url": "/hr-new-world/static/media/bg_0.401b1c8d.jpg"
   },
   {
-    "revision": "8f6becf0daaf9213beaab0d38bc35a49",
+    "revision": "6afd1dc4c65185cddf8e592727036d0d",
     "url": "/hr-new-world/index.html"
   }
 ];
