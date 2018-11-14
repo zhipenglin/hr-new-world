@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/hr-new-world/static/js/runtime~main.72e63079.js"
   },
   {
-    "revision": "45d7a1374dd767a51a89",
-    "url": "/hr-new-world/static/js/main.45d7a137.chunk.js"
+    "revision": "4b970420f929586c4efa",
+    "url": "/hr-new-world/static/js/main.4b970420.chunk.js"
   },
   {
     "revision": "71f388ffda99791708f7",
     "url": "/hr-new-world/static/js/1.71f388ff.chunk.js"
   },
   {
-    "revision": "45d7a1374dd767a51a89",
-    "url": "/hr-new-world/static/css/main.006d4ead.chunk.css"
+    "revision": "4b970420f929586c4efa",
+    "url": "/hr-new-world/static/css/main.8b07a6e7.chunk.css"
   },
   {
-    "revision": "1a8418629b5b5f6db5b481dc26e81ace",
+    "revision": "10dba90618b55fdf098f07696764f093",
     "url": "/hr-new-world/index.html"
   }
 ];
