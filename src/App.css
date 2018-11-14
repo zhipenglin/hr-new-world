@@ -1,5 +1,6 @@
 .App{
   height: 100vh;
+  width: 100vw;
   overflow: hidden;
 }
 
@@ -8,7 +9,8 @@
   overflow: hidden;
 }
 .page-inner.disabled{
-  overflow: auto;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 .page{
@@ -61,6 +63,17 @@
 
 .active .bounceInDown {
   animation-name: bounceInDown;
+}
+
+.timeline-item{
+  margin-top: 30px;
+  opacity:1;
+  transform: translateY(0px);
+  transition: transform 1000ms,opacity 500ms;
+}
+.timeline-item.hide{
+  opacity: 0;
+  transform: translateY(100px);
 }
 
 @keyframes fadeIn {

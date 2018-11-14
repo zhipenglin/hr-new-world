@@ -26,10 +26,12 @@
 
 .item_0{
     @include item("./item_0.png",325px,170px,60px);
+    animation-duration: 1000ms;
 }
 
 .item_1{
     @include item("./item_1.png",637px,467px,230px);
+    animation-duration: 5000ms;
 }
 
 .item_2{

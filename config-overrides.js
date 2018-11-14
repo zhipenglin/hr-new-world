@@ -7,5 +7,6 @@ module.exports = (config, env) => {
         options.plugins=()=>plugins;
         return options;
     })(config);
+    config.module.rules[2].oneOf[0].options.limit=1000000000;
     return config;
 };

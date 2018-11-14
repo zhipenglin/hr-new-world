@@ -1,4 +1,7 @@
 @mixin item($bg,$w,$h,$y:0,$x:50%){
+  position: absolute;
+  left: $x;
+  top:$y;
   &:after{
     content:'';
     display: block;
@@ -6,9 +9,6 @@
     background-size: $w $h;
     width: $w;
     height: $h;
-    position: absolute;
-    left: $x;
-    top:$y;
     transform: translateX(-50%);
   }
 }

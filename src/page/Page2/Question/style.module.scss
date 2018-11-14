@@ -1,0 +1,93 @@
+@import "../../fn";
+.bg{
+  @include bg("./ti_bg.png",572px,439px);
+  position: absolute;
+  top:4300px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.img{
+  padding: 20px 10px 10px;
+  img{
+    width: 172px;
+    height: 172px;
+    margin: 0 6px;
+  }
+}
+
+.title{
+  padding: 0px 20px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.ans{
+  font-size: 32px;
+  margin-top: 10px;
+  padding-left: 100px;
+  p{
+    margin: 0;
+    line-height: 1.4;
+  }
+}
+
+.qs{
+  margin-top: 60px;
+}
+
+.sb{
+  display: inline-block;
+}
+
+.sb1{
+  display: block;
+}
+
+.sb2{
+  display: block;
+  text-align: center;
+}
+
+@keyframes flipInY {
+  from {
+    transform: perspective(400px) rotate3d(0, 1, 0, 90deg);
+    animation-timing-function: ease-in;
+  }
+
+  40% {
+    transform: perspective(400px) rotate3d(0, 1, 0, -20deg);
+    animation-timing-function: ease-in;
+  }
+
+  60% {
+    transform: perspective(400px) rotate3d(0, 1, 0, 10deg);
+  }
+
+  80% {
+    transform: perspective(400px) rotate3d(0, 1, 0, -5deg);
+  }
+
+  to {
+    transform: perspective(400px);
+  }
+}
+
+.button{
+  &:after{
+    content:'';
+    display: block;
+    @include bg("./button.png",327px,135px);
+  }
+  position: absolute;
+  bottom:-200px;
+  left: 120px;
+  backface-visibility: visible !important;
+  animation: flipInY 2000ms 500ms infinite;
+}
+
+.des{
+  font-size: 24px;
+  text-align: center;
+  transform: translateY(10px);
+}

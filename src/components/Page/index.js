@@ -1,5 +1,4 @@
 import React, {PureComponent} from 'react'
-import raf from 'raf'
 import classnames from 'classnames'
 import style from './style.module.css'
 
@@ -58,7 +57,7 @@ export default class extends PureComponent {
     }
 
     render() {
-        const {index,disabled,children} = this.props,pageHeight=window.innerHeight;
+        const {index,disabled,onScroll,children} = this.props,pageHeight=window.innerHeight;
         return (
             <div className={style.page}
                  onTouchStart={this.handlerStart}
@@ -73,7 +72,7 @@ export default class extends PureComponent {
                         return <div className={classnames("page-inner",{
                             "active":index===i,
                             "disabled":disabled
-                        })} ref={(el) => this.refList.push(el)}>{item}</div>
+                        })} ref={(el) => this.refList.push(el)} onScroll={onScroll}>{item}</div>
                     })}
                 </div>
 

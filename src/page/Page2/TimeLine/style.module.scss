@@ -14,7 +14,15 @@
     position: absolute;
     background: #2c509d;
   }
-  @include item('./font.png',33px,248px,2500px,60%);
+  &:after{
+    content:'';
+    display: block;
+    @include bg('./font.png',33px,248px);
+    position: absolute;
+    top:2500px;
+    left:60%;
+    transform: translateX(-50%);
+  }
 }
 
 .left{
@@ -23,10 +31,6 @@
 
 .right{
   margin-top: 170px;
-}
-
-.item{
-  margin-top: 30px;
 }
 
 .item_1993{
