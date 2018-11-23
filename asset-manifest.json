@@ -1,13 +1,13 @@
 {
-  "main.css": "/hr-new-world/static/css/main.48cb2283.chunk.css",
-  "main.js": "/hr-new-world/static/js/main.c35d10e0.chunk.js",
-  "main.js.map": "/hr-new-world/static/js/main.c35d10e0.chunk.js.map",
+  "main.css": "/hr-new-world/static/css/main.4dd58d4c.chunk.css",
+  "main.js": "/hr-new-world/static/js/main.7fdbea44.chunk.js",
+  "main.js.map": "/hr-new-world/static/js/main.7fdbea44.chunk.js.map",
   "static/js/1.a657bbaf.chunk.js": "/hr-new-world/static/js/1.a657bbaf.chunk.js",
   "static/js/1.a657bbaf.chunk.js.map": "/hr-new-world/static/js/1.a657bbaf.chunk.js.map",
   "runtime~main.js": "/hr-new-world/static/js/runtime~main.72e63079.js",
   "runtime~main.js.map": "/hr-new-world/static/js/runtime~main.72e63079.js.map",
-  "static/css/main.48cb2283.chunk.css.map": "/hr-new-world/static/css/main.48cb2283.chunk.css.map",
+  "static/css/main.4dd58d4c.chunk.css.map": "/hr-new-world/static/css/main.4dd58d4c.chunk.css.map",
   "index.html": "/hr-new-world/index.html",
-  "precache-manifest.fda036cc792277b9b917d0b5f93f845b.js": "/hr-new-world/precache-manifest.fda036cc792277b9b917d0b5f93f845b.js",
+  "precache-manifest.889b0b5407622e7e74d821cd1bb3c13e.js": "/hr-new-world/precache-manifest.889b0b5407622e7e74d821cd1bb3c13e.js",
   "service-worker.js": "/hr-new-world/service-worker.js"
 }
